@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Airdrop Contract",
+      "value": "0x6C20bd9FcbDbB1A51e6Ea8fe68210Be56A8Eaa11"
+    },
+    {
+      "id": 2,
+      "name": "Airdrop Fee in Wei",
+      "value": "2000000000000000"
+    },
+    {
+      "id": 3,
+      "name": "Title",
+      "value": "TAU AI Airdrop"
+    },
+    {
+      "id": 4,
+      "name": "Description",
+      "value": "TAU AI token is the cryptocurrency that powers TAU NETWORK platform, you can use TAI in a wide range of TAU applications and use cases."
+    },
+    {
+      "id": 5,
+      "name": "Token Contract",
+      "value": "0xBDaAcbB0D36813C1D56607854e37AD90efaA62E2"
+    },
+    {
+      "id": 6,
+      "name": "Token Symbol",
+      "value": "TAI"
+    },
+    {
+      "id": 7,
+      "name": "Airdrop Amount",
+      "value": "10000"
+    },
+    {
+      "id": 8,
+      "name": "Airdrop Type: single or multi",
+      "value": "single"
+    },
+    {
+      "id": 9,
+      "name": "Owner Wallet",
+      "value": "0x66665eDB52F43799514c90Df8C6F8c66F74e94ba"
+    },
+    {
+      "id": 10,
+      "name": "Chain Name",
+      "value": "Binance Smart Chain"
+    },
+    {
+      "id": 11,
+      "name": "Chain ID",
+      "value": "56"
+    }
+    
+  ]
+  
